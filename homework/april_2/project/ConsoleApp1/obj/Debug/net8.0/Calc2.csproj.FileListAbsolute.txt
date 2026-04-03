@@ -1,0 +1,15 @@
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\bin\Debug\net8.0\Calc2.exe
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\bin\Debug\net8.0\Calc2.deps.json
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\bin\Debug\net8.0\Calc2.runtimeconfig.json
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\bin\Debug\net8.0\Calc2.dll
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\bin\Debug\net8.0\Calc2.pdb
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\obj\Debug\net8.0\Calc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\obj\Debug\net8.0\Calc2.AssemblyInfoInputs.cache
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\obj\Debug\net8.0\Calc2.AssemblyInfo.cs
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\obj\Debug\net8.0\Calc2.csproj.CoreCompileInputs.cache
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\obj\Debug\net8.0\Calc2.sourcelink.json
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\obj\Debug\net8.0\Calc2.dll
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\obj\Debug\net8.0\refint\Calc2.dll
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\obj\Debug\net8.0\Calc2.pdb
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\obj\Debug\net8.0\Calc2.genruntimeconfig.cache
+C:\Users\scofield\Documents\GitHub\2026-Spring-GAME240-01\homework\april_2\project\ConsoleApp1\obj\Debug\net8.0\ref\Calc2.dll
