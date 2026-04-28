@@ -1,6 +1,7 @@
 ﻿//  used https://stackoverflow.com/questions/13956244/to-check-if-var-is-string-type 
 // https://stackoverflow.com/questions/894263/identify-if-a-string-is-a-number 
 
+
 double answer = 0;
 double num1 = 0;
 double num2 = 0;
